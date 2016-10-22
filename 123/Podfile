@@ -1,0 +1,2 @@
+platform : ios
+pod 'WX', :path => "/Users/wzm/Desktop/LocalGit/Social"
